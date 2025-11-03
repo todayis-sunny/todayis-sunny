@@ -1,4 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=todayis-sunny&fontSize=90)
+
 ## Hi there 👋
+
+### 💡Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsun5163)](https://solved.ac/hsun5163)
 
 <!--
 **todayis-sunny/todayis-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
