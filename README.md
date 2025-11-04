@@ -3,7 +3,10 @@
 ## Hi there 👋
 
 ### 💡Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsun5163)](https://solved.ac/hsun5163)
+| baekjoon | programmers |
+| --- | --- |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsun5163)](https://solved.ac/hsun5163) | ![Programmers프로필](https://raw.githubusercontent.com/todayis-sunny/programmers-badge/master/static/result.svg) | 
+
 
 <!--
 **todayis-sunny/todayis-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
