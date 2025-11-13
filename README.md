@@ -33,6 +33,13 @@
 
 </div>
 
+<!-- 하단 마무리 이미지 (Footer) -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" alt="footer">
+  
+</div>
+
 <!--
 **todayis-sunny/todayis-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
