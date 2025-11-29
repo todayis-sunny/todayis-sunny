@@ -21,9 +21,8 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todayis-sunny&hide=contribs,prs&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=todayis-sunny&layout=compact&theme=dark)
+![ ](https://raw.githubusercontent.com/todayis-sunny/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![ ](https://raw.githubusercontent.com/todayis-sunny/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 ## 💡Algorithm💡
 
